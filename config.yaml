@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    ldd:
+      email: laurent.dderome@gmail.com
+      name: laurent Desrosiers
+      password: $2b$12$9lqYsiAIjY.8B3FF2OzXKutE00xMZ8cwfbE.4/U0R3aNRjwDGsTCC
+    ldd1:
+      email: laurent.dderome@gmail.com
+      name: laurent
+      password: $2b$12$FyCNCGiZJnRzI0g0b4YFFeP8nM.MIq5Q6SBxylXt/2OuIRYUf0PLa
+preauthorized:
+  emails:
+  - eric.derome@gmail.com
